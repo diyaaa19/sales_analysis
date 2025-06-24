@@ -28,4 +28,4 @@ The dashboard is designed to:
 
 + Regional Performance Data: Provides information on sales performance by location.
 
-+ Customer Demographics (if applicable): Analyzes sales impact across various customer segments.
+
