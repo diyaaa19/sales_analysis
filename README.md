@@ -24,8 +24,12 @@ The dashboard is designed to:
 * Interactive Filters: Allows users to slice data by region, time, and category for granular insights.
 
 # Data Sources
-+ Sales Transaction Data: Includes details such as product names, sales amounts, units sold, and transaction dates.
++ Date.txt
++ Department List.csv
++ Retail Fixed Costs.csv
++ Sales Retail 2020 - 2022.xlsv
++ Store Details.csv
++ Store Size.csv
 
-+ Regional Performance Data: Provides information on sales performance by location.
 
 
