@@ -26,8 +26,8 @@ The dashboard is designed to:
 # Data Sources
 + Date.txt
 + Department List.csv
-+ Retail Fixed Costs.csv
-+ Sales Retail 2020 - 2022.xlsv
++ Retail Fixed Costs.xlsx
++ Sales Retail 2020 - 2022.xlsx
 + Store Details.csv
 + Store Size.csv
 
